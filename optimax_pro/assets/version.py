@@ -1,3 +1,0 @@
-VERSION = "2.1.0"
-BUILD_DATE = "2025-06-13"
-AUTHOR = "Optimax Team"
